@@ -1,251 +1,304 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nguyen%20Thanh%20Do&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Tech%20Lead%20%7C%20Senior%20Backend%20Engineer&descAlignY=60&descSize=22" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=5" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=12%2B+years+building+production+backend+systems;Tech+Lead+across+VN+%7C+Japan+%7C+Australia+studios;NestJS+%7C+Laravel+%7C+AWS+%7C+Docker+%7C+gRPC;Distributed+systems+%7C+Cloud-native+%7C+AI+integration;Open+to+Tech+Lead+%26+EM+roles+%E2%80%94+remote+or+HCMC" alt="Typing SVG" />
+
+```
+ ██████╗ ██████╗ ███████╗███████╗███████╗    ███████╗████████╗ █████╗ ██████╗ ████████╗
+ ██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝    ██╔════╝╚══██╔══╝██╔══██╗██╔══██╗╚══██╔══╝
+ ██████╔╝██████╔╝█████╗  ███████╗███████╗    ███████╗   ██║   ███████║██████╔╝   ██║
+ ██╔═══╝ ██╔══██╗██╔══╝  ╚════██║╚════██║    ╚════██║   ██║   ██╔══██║██╔══██╗   ██║
+ ██║     ██║  ██║███████╗███████║███████║    ███████║   ██║   ██║  ██║██║  ██║   ██║
+ ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝    ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝
+```
+
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=%E2%96%88%20NGUYEN%20THANH%20DO%20%E2%96%88&fontSize=40&fontColor=00ff41&animation=fadeIn&fontAlignY=42&desc=%5B%20TECH%20LEAD%20%2F%20SENIOR%20BACKEND%20ENGINEER%20%5D&descSize=17&descAlignY=65&descFontColor=39ff14" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=700&height=60&lines=%3E+PLAYER+PROFILE+LOADED+%E2%9C%93;%3E+12%2B+YEARS+XP+DETECTED+%E2%9C%93;%3E+BACKEND+SYSTEMS+ONLINE+%E2%9C%93;%3E+AI+MODULES+ACTIVATED+%E2%9C%93;%3E+READY+FOR+NEW+QUEST+%F0%9F%9A%80" alt="Typing SVG"/>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/do-nguyen-a7815d61/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%5B%20LinkedIn%20%5D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
   </a>
   <a href="mailto:thanhdo92lt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%5B%20Email%20%5D-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000"/>
   </a>
-  <img src="https://img.shields.io/badge/Experience-12%2B%20Years-58A6FF?style=for-the-badge&logo=calendar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Location-HCMC%2C%20Vietnam-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=nthanhdo&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=nthanhdo&style=for-the-badge&color=00ff41&label=VISITORS&labelColor=000000"/>
 </div>
 
 ---
 
-## 🧑‍💻 Professional Summary
+## ⚔ CHARACTER SHEET
 
-```typescript
-const do_nguyen = {
-  role:        "Tech Lead / Senior Backend Engineer",
-  location:    "Ho Chi Minh City, Vietnam 🇻🇳",
-  experience:  "12+ years — startups, game studios (JP/AU), enterprise",
-  education:   "Software Engineer · NIIT An Giang · GPA 3.6/4",
-  core:        ["System Architecture", "Team Leadership", "Cloud Infrastructure", "AI Integration"],
-  languages:   ["TypeScript", "JavaScript (Node.js)", "PHP", "SQL"],
-  philosophy:  "Ship fast. Scale right. Mentor always.",
-  open_to:     ["Tech Lead", "Engineering Manager", "Senior Backend"],
-  available:   true,
-};
+<table>
+<tr>
+<td width="45%">
+
+```
+╔═══════════════════════════════╗
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ░  ██████╗  ██████╗       ░  ║
+║  ░  ██   █  █   ██       ░  ║
+║  ░  ██████  ██████       ░  ║
+║  ░  ██   █  ██   █       ░  ║
+║  ░  ██████╗ ██   ██      ░  ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║                               ║
+║  NAME  : Nguyen Thanh Do      ║
+║  CLASS : Tech Lead            ║
+║  LEVEL : ⭐ EXPERT (Lv.12+)  ║
+║  GUILD : Farmi Offshore       ║
+║  WORLD : 🇻🇳 HCMC Server      ║
+║  STATUS: 🟢 ONLINE            ║
+╚═══════════════════════════════╝
+```
+
+</td>
+<td width="55%">
+
+```
+╔══════════════════════════════════════╗
+║    STATS              VALUE  BAR     ║
+╠══════════════════════════════════════╣
+║  ⚔ ARCHITECTURE     [100] ██████ MAX║
+║  🛡 LEADERSHIP       [100] ██████ MAX║
+║  ⚡ BACKEND          [100] ██████ MAX║
+║  🧠 SYSTEM DESIGN    [100] ██████ MAX║
+║  ☁  CLOUD/DEVOPS     [ 90] █████░    ║
+║  🤖 AI INTEGRATION   [100] ██████ MAX║
+║  🎨 FRONTEND         [ 85] ████░░    ║
+║  📐 FULL-STACK       [ 88] █████░    ║
+╠══════════════════════════════════════╣
+║  TOTAL XP ░░░░░░░░░░░░░ 12+ YEARS   ║
+╚══════════════════════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🗺 WORLD MAP — Career Journey
+
+```
+                        🌏 CAREER MAP
+    ════════════════════════════════════════════════════
+
+    [2014]──────[2018]──────[2020]────[2022]────[2025]▶▶
+      │            │           │         │          │
+      ▼            ▼           ▼         ▼          ▼
+   PHPFox       TMA Sol.   FireGroup  GIANTY 🇯🇵  Farmi
+   Social       GCI SaaS   AliHunter  Kanpani    Nobinobi
+   Platform     Gift Cards gRPC+Docker Girls    AI+Cloud
+   PHP·jQuery   PHP·Adobe  Node·PHP   Tech Lead  Tech Lead
+
+                        Evolable Asia (2019–2022)
+                        ┌───────────────────────┐
+                        │ Wordlink · Trident     │
+                        │ Etatama · STABOLLOV    │
+                        │ NINE Baseball          │
+                        └───────────────────────┘
+    ════════════════════════════════════════════════════
 ```
 
 ---
 
-## 🚀 Core Competencies
+## 📜 QUEST LOG
 
-<table>
-<tr>
-<td width="50%">
+<details>
+<summary><b>🟢 [ACTIVE] ★★★ MAIN STORY — Tech Lead · Farmi Offshore</b></summary>
 
-**🏗️ System Architecture & Design**
-- Microservices with gRPC, REST & event-driven patterns
-- Distributed caching, message queues (RabbitMQ, SQS)
-- API design — high-throughput, fault-tolerant
-- Database modeling: SQL & NoSQL at scale
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  QUEST  : Build scalable offshore product platform              ║
+║  CLIENT : Farmi (Nobinobi Project)    STARTED: Apr 2025        ║
+╠══════════════════════════════════════════════════════════════════╣
+║  OBJECTIVES                                                      ║
+║  ✅ Lead team · requirements · delivery · sprint planning        ║
+║  ✅ Design & implement NestJS microservices                      ║
+║  ✅ Integrate Gemini + Claude Code into GitLab CI pipeline       ║
+║  ✅ Auto-generate PRD/FRD/SRS/TSD via LLM                        ║
+║  ✅ Auto test-gen using Gemini + Qwen-coder                      ║
+║  🔄 Performance optimization ongoing                            ║
+╠══════════════════════════════════════════════════════════════════╣
+║  STACK                                                           ║
+║  NestJS · Next.js · React Native · PostgreSQL · MongoDB         ║
+║  DynamoDB · Redis · RabbitMQ                                    ║
+║  AWS: Lambda · SQS · SNS · EC2 · S3 · CloudWatch               ║
+║  Jest · Vitest · Grafana K6 · JMeter                           ║
+╠══════════════════════════════════════════════════════════════════╣
+║  PARTY MEMBERS (Integrations)                                    ║
+║  Tiki · Lazada Express · Momo · Haravan · Zalo OA               ║
+║  Mailgun · Sendgrid · AccessTrade · Permate · Eton · Lark       ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-</td>
-<td width="50%">
+</details>
 
-**👥 Engineering Leadership**
-- Led cross-border teams (Vietnam + Japan + Australia)
-- Sprint planning, delivery management, technical roadmaps
-- Mentoring engineers, code review culture
-- PO/PM collaboration — requirements → technical spec
+<details>
+<summary><b>✅ [DONE] ★★★ INTERNATIONAL RAID — Technical Leader · GIANTY Japan</b></summary>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  QUEST  : Lead Japanese social game backend                     ║
+║  CLIENT : GIANTY (Japan)              PERIOD: 2022 → 2024      ║
+╠══════════════════════════════════════════════════════════════════╣
+║  BOSS CLEARED: Cross-border VN ↔ JP engineering collaboration   ║
+║  ✅ Backend architecture · team leadership · delivery           ║
+║  ✅ Code review culture · sprint planning · QA management       ║
+╠══════════════════════════════════════════════════════════════════╣
+║  STACK:  PHP · MySQL · AWS · Redis                              ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-**☁️ Cloud & DevOps**
-- AWS: Lambda, SQS, SNS, EC2, S3, CloudWatch
-- Docker, CI/CD pipelines, load testing (k6, JMeter)
-- Logging & monitoring: Grafana, CloudWatch
+</details>
 
-</td>
-<td width="50%">
+<details>
+<summary><b>✅ [DONE] ★★★ ECOMMERCE DUNGEON — Senior Engineer · FireGroup</b></summary>
 
-**🤖 AI-Powered Engineering**
-- AI code reviews via Gemini & Claude Code (GitLab CI)
-- Automated test generation: Gemini + OpenAI (Qwen-coder)
-- AI-generated documentation: PRD, FRD, SRS, TSD
-- LLM-integrated backend workflows
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  QUEST  : AliHunter eCommerce intelligence platform             ║
+║  CLIENT : FireGroup                   PERIOD: Nov 2020 → 2022  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  ✅ Microservices architecture with gRPC                        ║
+║  ✅ High-throughput data crawling & processing pipelines        ║
+║  ✅ OAuth2 auth system · REST API design                        ║
+║  ✅ DevOps-ready infrastructure setup                           ║
+╠══════════════════════════════════════════════════════════════════╣
+║  STACK:  Node.js · PHP · Laravel · gRPC · Docker · MongoDB     ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-</td>
-</tr>
-</table>
+</details>
 
----
+<details>
+<summary><b>✅ [DONE] ★★ GAME STUDIO ARC — Full-Stack Dev · Evolable Asia</b></summary>
 
-## 💼 Work Experience
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  MULTI-QUEST ARC · Evolable Asia          PERIOD: 2019 → 2022  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  🎙️  Wordlink    — Google Assistant voice game                  ║
+║       Dialogflow NLP · Actions on Google · Node.js · Firebase   ║
+║                                                                  ║
+║  ⚔   Trident    — Web game platform                            ║
+║       Laravel · ParseServer · Agenda · Redis · Socket.IO        ║
+║                                                                  ║
+║  🎮  Etatama    — Social game backend                          ║
+║       Laravel · Node.js · MySQL · Redis                         ║
+║                                                                  ║
+║  📚  STABOLLOV  — E-learning platform                          ║
+║       CodeIgniter · React.js · MySQL · REST APIs                ║
+║                                                                  ║
+║  ⚾  NINE       — Professional Baseball mgmt (Laravel/Lumen)   ║
+║  ⚡  INCONEL    — Real-time app (Socket.IO · Auth0 · Docker)   ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-### 🔵 Tech Lead · Farmi (Offshore) — Nobinobi Project
-**Apr 2025 – Present**
+</details>
 
-- Analyzed requirements, estimated features, delegated tasks to team members to ensure timely releases
-- Led feature development: design, implementation, code review, and performance optimization
-- Developed and maintained test suites (unit, integration, performance)
-- Collaborated directly with PO/PM to propose and refine technical solutions
-- Supported Frontend team (Next.js, React Native) with code reviews
+<details>
+<summary><b>✅ [DONE] ★ ORIGIN STORY — PHP Developer · PHPFox + TMA Solution</b></summary>
 
-**Tech:** NestJS · Next.js · React Native · PostgreSQL · MongoDB · DynamoDB · Redis · RabbitMQ · AWS (Lambda, SQS, SNS, EC2, S3, CloudWatch) · Jest · Vitest · Grafana K6 · JMeter
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ORIGIN STORY                             PERIOD: 2014 → 2018  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  PHPFox Social Platform (4+ years)                              ║
+║  Social network · PHPFox MVC · jQuery UI · jQuery Plugins       ║
+║                                                                  ║
+║  TMA Solution — Gift Card Impression (GCI) 2015-2016            ║
+║  PHP · Adobe Scene7 API · MySQL · grew to Team Lead             ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-**Integrations:** Haravan · Tiki · Lazada Express · AccessTrade · Permate · Momo · Mailgun · Sendgrid · Zalo OA · Eton · Lark
-
-**AI in workflow:** Gemini & Claude Code for automated code review (GitLab CI) · Qwen-coder for test generation · AI-generated technical documentation
-
----
-
-### 🟣 Technical Leader · GIANTY (Japan) — Kanpani Girls
-**2022 – 2024**
-
-- Led backend architecture for a Japanese social mobile game
-- Managed cross-border engineering collaboration between Vietnam and Japan teams
-- Delivered features end-to-end: architecture → implementation → QA → release
-
-**Tech:** PHP · MySQL · AWS · Redis
-
----
-
-### 🟠 Senior Engineer · FireGroup — AliHunter Platform
-**Nov 2020 – Aug 2022**
-
-- Built eCommerce intelligence platform using microservices architecture
-- Designed high-throughput data crawling and processing pipelines
-- Implemented gRPC services, OAuth2 authentication, and REST APIs
-- Set up infrastructure enabling DevOps team to self-serve deployments
-
-**Tech:** Node.js · PHP · Laravel · gRPC · Docker · MongoDB · Express.js · OAuth2
-
----
-
-### 🟡 Full-Stack Developer · Evolable Asia — Multiple Game Projects
-**Jan 2019 – Oct 2020**
-
-**Wordlink Game** (Sep–Oct 2020) — Voice-enabled word game for Google Assistant. Built Dialogflow NLP pipeline, Actions on Google integration, and real-time multiplayer backend.
-> Node.js · Google Actions · YAML · Webhooks · Firebase
-
-**Trident Game** (Apr–Sep 2020) — Web-based game platform. Built APIs, data crawling pipelines, and real-time infrastructure.
-> Laravel · ParseServer · Agenda · Redis · Socket.IO
-
-**Etatama Game** (Jan–Mar 2020) — Social game backend and API layer.
-> Laravel · Node.js · MySQL · Redis
-
-**STABOLLOV** (Jul–Sep 2019) — E-learning platform with API integrations.
-> CodeIgniter · React.js · MySQL
-
----
-
-### 🟢 Senior PHP Developer · Evolable Asia — INCONEL Project
-**Aug 2022 – Apr 2025**
-
-- Led customer requirements gathering, system design, and architecture decisions
-- Managed team task assignments and delivery schedules
-- Designed database schemas and API specifications
-- Delivered real-time features using Socket.IO
-
-**Tech:** Docker · MySQL · Node.js · Socket.IO · Express.js · Auth0
+</details>
 
 ---
 
-### ⚪ PHP Developer · Evolable Asia — Professional Baseball: NINE
-**May 2016 – Feb 2018**
+## 🧰 SKILL TREE
 
-Sports management platform for professional baseball. Built REST APIs using Laravel/Lumen.
+```
+                            [ BACKEND MASTERY ]
+                                    │
+              ┌─────────────────────┼─────────────────────┐
+              │                     │                     │
+         [Node.js ★5]          [PHP ★5]             [API Design ★5]
+              │                     │                     │
+        ┌─────┴─────┐         ┌─────┴─────┐        ┌─────┴──────┐
+    [NestJS ★5] [Express ★5] [Laravel ★5] [CakeP.] [REST] [gRPC ★4]
+                                                           │
+                                                    [Microservices ★5]
 
-**Tech:** Laravel · Lumen · MySQL · PHP
+                           [ DATA LAYER ]
+                                   │
+            ┌──────────────────────┼──────────────────────┐
+            │                      │                      │
+      [SQL ★5]               [NoSQL ★5]            [Cache/Queue ★5]
+            │                      │                      │
+     ┌──────┴──────┐        ┌──────┴──────┐        ┌─────┴──────┐
+  [PostgreSQL] [MySQL]  [MongoDB] [DynamoDB]  [Redis] [RabbitMQ] [SQS]
+                              [ElasticSearch]
 
----
+                          [ CLOUD & DEVOPS ]
+                                   │
+                     ┌─────────────┴─────────────┐
+                     │                           │
+                [AWS ★5]                    [Docker ★5]
+                     │                           │
+         ┌───────────┼──────────┐          [CI/CD ★4]
+     [Lambda] [SQS/SNS] [EC2/S3] [CloudWatch]
 
-### ⚪ Developer · TMA Solution — Gift Card Impression (GCI)
-**Sep 2015 – May 2016**
-
-Gift card & greeting card SaaS platform. Grew into a key engineering resource and team lead. Integrated Adobe APIs (Scene7) for media processing.
-
-**Tech:** PHP · Adobe APIs · MySQL · jQuery
-
----
-
-### ⚪ PHP Developer · PHPFox Social Platform
-**Aug 2014 – Aug 2018**
-
-Social network platform development: feature implementation, bug fixes, code review, and testing across a large PHP MVC codebase.
-
-**Tech:** PHPFox · MVC · jQuery UI · jQuery Plugins
-
----
-
-## 🗂️ Project Highlights
-
-<table>
-<tr>
-<td width="33%">
-<h4>🎮 Kanpani Girls</h4>
-Japanese social mobile game · GIANTY<br/>
-<sub>Led cross-border VN↔JP engineering team. Backend architecture, delivery management.</sub><br/><br/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-</td>
-<td width="33%">
-<h4>🔍 AliHunter</h4>
-eCommerce intelligence platform · FireGroup<br/>
-<sub>Microservices with gRPC, high-throughput crawling pipelines, OAuth2 auth layer.</sub><br/><br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</td>
-<td width="33%">
-<h4>🎙️ Wordlink</h4>
-Google Assistant voice game · Evolable Asia<br/>
-<sub>Dialogflow NLP pipeline + Actions on Google integration + real-time multiplayer.</sub><br/><br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Actions-4285F4?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-</td>
-</tr>
-<tr>
-<td width="33%">
-<h4>🏗️ Nobinobi</h4>
-Offshore full-stack · Farmi (Current)<br/>
-<sub>Tech Lead. NestJS + Next.js + React Native. AI-powered CI/CD workflows.</sub><br/><br/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
-</td>
-<td width="33%">
-<h4>⚾ Baseball: NINE</h4>
-Sports platform · Evolable Asia<br/>
-<sub>Professional baseball management system. REST API with Laravel/Lumen.</sub><br/><br/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</td>
-<td width="33%">
-<h4>🎴 Gift Card Impression</h4>
-SaaS platform · TMA Solution<br/>
-<sub>Gift & greeting card platform with Adobe Scene7 media API integration. Grew to team lead.</sub><br/><br/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</td>
-</tr>
-</table>
+                         [ 🤖 AI INTEGRATION ]
+                                   │
+              ┌────────────────────┼────────────────────┐
+              │                    │                    │
+        [Gemini ★5]         [Claude ★5]          [OpenAI ★4]
+              │                    │
+      [AI Code Review]    [AI Doc Generation]
+      [GitLab CI/CD]      [PRD·FRD·SRS·TSD]
+```
 
 ---
 
-## 🛠️ Full Tech Stack
+## 💎 LEGENDARY ITEMS — Notable Achievements
 
-**Backend**
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🏆 [LEGENDARY]  AI-Powered Engineering Pipeline                │
+│     First to integrate Gemini + Claude into GitLab CI           │
+│     Auto code review · auto test gen · auto documentation       │
+├─────────────────────────────────────────────────────────────────┤
+│  🥇 [EPIC]  Cross-Border Tech Lead                              │
+│     Led VN ↔ JP team at GIANTY — Kanpani Girls social game     │
+├─────────────────────────────────────────────────────────────────┤
+│  🥈 [RARE]  gRPC Microservices Architect                        │
+│     Built high-throughput eCommerce intelligence at FireGroup    │
+├─────────────────────────────────────────────────────────────────┤
+│  🥉 [UNCOMMON]  Google Assistant Game Developer                  │
+│     Shipped Wordlink — voice-enabled NLP word game              │
+├─────────────────────────────────────────────────────────────────┤
+│  🎖 [COMMON]  12+ Years Survivor                                │
+│     Shipped products across 5 companies, 3 countries            │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🎒 INVENTORY — Full Tech Stack
+
+<div align="center">
+
+**⚔️ Backend**
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -256,7 +309,7 @@ SaaS platform · TMA Solution<br/>
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-**Frontend & Mobile**
+**🛡️ Frontend & Mobile**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -264,7 +317,7 @@ SaaS platform · TMA Solution<br/>
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
-**Databases**
+**🗄️ Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -272,73 +325,86 @@ SaaS platform · TMA Solution<br/>
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-**Messaging & Queue**
-
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![AWS SQS](https://img.shields.io/badge/SQS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-C21325?style=flat-square&logo=redis&logoColor=white)
 
-**Cloud & DevOps**
+**☁️ Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white)
 
-**Testing & Performance**
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white)
-![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
-
-**AI & Integrations**
+**🤖 AI & Testing**
 
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white)
-![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nthanhdo&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nthanhdo&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nthanhdo&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 ---
 
-## 🏆 Trophies
+## 📊 BATTLE STATS
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nthanhdo&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nthanhdo&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=00ff41&text_color=00ff41&icon_color=39ff14&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nthanhdo&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10&title_color=00ff41&text_color=00ff41&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nthanhdo&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&sideLabels=00ff41" />
 </div>
 
 ---
 
-## 🎓 Education
+## 🏆 HALL OF FAME
 
-**NIIT An Giang** — Software Engineer · Sep 2011 – May 2013 · GPA **3.6 / 4.0**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nthanhdo&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
+
+---
+
+## 🎓 ORIGIN
+
+```
+╔══════════════════════════════════════════════╗
+║  📜 CERTIFICATE OF COMPLETION               ║
+║  ──────────────────────────────────────────  ║
+║  NIIT An Giang                               ║
+║  Major : Software Engineering                ║
+║  Period: Sep 2011 – May 2013                ║
+║  GPA   : 3.6 / 4.0  ⭐⭐⭐⭐               ║
+╚══════════════════════════════════════════════╝
+```
 
 ---
 
 <div align="center">
-  <b>💼 Open to Tech Lead, Engineering Manager & Senior Backend roles — remote or HCMC-based</b>
-  <br/>
-  <a href="https://www.linkedin.com/in/do-nguyen-a7815d61/">Connect on LinkedIn →</a>
+
+```
+╔═════════════════════════════════════════════════════════════════╗
+║                                                                 ║
+║   ▶  PRESS START TO COLLABORATE                                 ║
+║                                                                 ║
+║   🟢  AVAILABLE FOR NEW QUESTS                                  ║
+║       Tech Lead  ·  Engineering Manager  ·  Senior Backend      ║
+║       Remote worldwide  or  HCMC-based                          ║
+║                                                                 ║
+║   ⚔   LinkedIn  →  /in/do-nguyen-a7815d61                      ║
+║   📧  Email     →  thanhdo92lt@gmail.com                        ║
+║                                                                 ║
+╚═════════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=8&section=footer" width="100%"/>
 </div>
